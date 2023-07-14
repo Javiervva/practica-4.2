@@ -1,0 +1,7 @@
+flask==2.3.2
+pandas
+scikit-learn
+urllib3<2
+mlflow
+pyyaml
+sqlalchemy
